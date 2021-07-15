@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ejaazrkhan@gmail.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaazrkhan)](https://git.io/streak-stats)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ejaazrkhan)
 
 <!---
