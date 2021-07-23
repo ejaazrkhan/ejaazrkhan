@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PHP and VUE JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ejaazrkhan@gmail.com
+- 📫 Reach me ejaazrkhan@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaazrkhan)](https://git.io/streak-stats)
 
