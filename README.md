@@ -8,7 +8,7 @@
 
 ![Ejaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaazrkhan&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaazrkhan&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaazrkhan&layout=compact)
 
 <!---
 ejaazrkhan/ejaazrkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
